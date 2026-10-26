@@ -39,6 +39,8 @@ released, and a person reviews it and stands behind it.
 | **Dreo** (fans, ceiling fans, humidifiers) | [hubitat-dreo](https://github.com/digital-homesteaders/hubitat-dreo) | |
 | **Govee** (lights, fans) | [hubitat-govee](https://github.com/digital-homesteaders/hubitat-govee) | |
 | **ecobee** (thermostats, remote sensors) | [hubitat-ecobee](https://github.com/digital-homesteaders/hubitat-ecobee) | |
+| **Philips Hue** (lights, sensors, scenes) | [hubitat-hue](https://github.com/digital-homesteaders/hubitat-hue) | |
+| **ratgdo** (garage door openers) | [hubitat-ratgdo](https://github.com/digital-homesteaders/hubitat-ratgdo) | |
 
 More are on the way, including Homey. Browse by platform:
 [hubitat](https://github.com/search?q=org%3Adigital-homesteaders+topic%3Ahubitat&type=repositories) ·
@@ -55,5 +57,5 @@ More are on the way, including Homey. Browse by platform:
 Bug reports, device logs and results from models we haven't tested are all welcome. Open an issue
 on the project's repo. Pull requests are welcome too.
 
-<sub>Not affiliated with or endorsed by Dreo, SolarEdge, Govee, ecobee, Hubitat, Athom (Homey) or
+<sub>Not affiliated with or endorsed by Dreo, SolarEdge, Govee, ecobee, Philips Hue, ratgdo, Hubitat, Athom (Homey) or
 Home Assistant. Brand names belong to their owners.</sub>
